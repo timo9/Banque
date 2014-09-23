@@ -19,6 +19,13 @@ public class Client {
 		this.mail = unMail;
 		this.tel = unTel;
 	}
+	
+	
+	//commentaire pour test final de GIT graphique local et via GitHub
+	//Attention...
+	
+	
+	
 
 	public String getNom() {
 		return nom;
