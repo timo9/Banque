@@ -19,6 +19,7 @@ public class Accueil extends JFrame implements ActionListener{
     // Constructeur 
     public Accueil(){
     	
+		//Petite instruction faite pour un commit en mode graphique
     	
     	  // Création de la barre de menu
           JMenuBar menu= new JMenuBar();
